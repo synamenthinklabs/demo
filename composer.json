@@ -1,4 +1,8 @@
 {
     "name": "synamenthinklabs/demo",
-    "description": "Synamen Demo"
+    "description": "Synamen Demo",
+    "version": "0.0.1",
+    "license": [
+        "OSL-3.0"
+    ]
 }
